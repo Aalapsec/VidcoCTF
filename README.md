@@ -1,2 +1,2 @@
-# manualctf
-CTF side without any CTF framework
+# VidcoCTF
+CTF site without any CTF framework.
